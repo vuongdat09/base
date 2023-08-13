@@ -1,0 +1,15 @@
+{
+  "products": [
+    {
+      "name": "product 1",
+      "price": "123456",
+      "id": 3
+    },
+    {
+      "name": "Vương Tiến Đạt",
+      "price": "4",
+      "id": 4
+    }
+  ],
+  "users": []
+}
